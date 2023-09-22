@@ -8,3 +8,4 @@ https://www.php.net/releases/8.2/ja.php
 
 - [読み取り専用クラス](src/new-features/readonly-classes.php)
 - [DNF(Disjunctive Normal Form)型](src/new-features/dnf-types.php)
+- [null, false, true が、独立した型に](src/new-features/null-false-true-types.php)
