@@ -12,3 +12,7 @@ https://www.php.net/releases/8.2/ja.php
 - [Random拡張モジュール](src/new-features/random-extension.php)
 - [トレイトで定数](src/new-features/constants-in-traits.php)
 - [定数式の中で、列挙型のプロパティを取得](src/new-features/enums-property-constant-expression.php)
+
+## 推奨されなくなる機能
+
+- [動的なプロパティの利用](src/deprecated/dynamic-properties.php)
